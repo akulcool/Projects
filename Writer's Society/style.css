@@ -1,0 +1,20 @@
+.nav{
+	background-image: linear-gradient(to right top, #39cfdb, #00bfdf, #00afe0, #009ddd, #268ad6);
+}
+
+@media all and (max-width: 1000px){
+
+#side{
+	display: none;
+}
+
+}
+
+.title{
+	font-family: 'Itim', cursive;
+}
+
+.content{
+	font-family: 'Itim', cursive;
+	
+}
